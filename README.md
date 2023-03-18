@@ -1,6 +1,6 @@
 # Projekt Net_X
 
-A new Flutter project.
+Netzwerkmessung Flutter App.
 
 ## Getting Started
 
